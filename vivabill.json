@@ -3,7 +3,7 @@
  "connect":{
             "url":"https://api.billing-viva.com",
             "api":"1",
-            "username":"viva_01",
-            "password":"hello"
+            "username":"",
+            "password":""
            }
 }
