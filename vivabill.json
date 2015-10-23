@@ -1,0 +1,9 @@
+{
+ "uuid":"6374ef7f-53f8-11e5-bbaa-002590100921",
+ "connect":{
+            "url":"https://api.billing-viva.com",
+            "api":"1",
+            "username":"viva_01",
+            "password":"hello"
+           }
+}

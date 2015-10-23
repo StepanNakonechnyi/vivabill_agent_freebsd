@@ -1,0 +1,15 @@
+{
+ "home_dir":"/usr/local/etc/vivabill/",
+ "data_dir":"/usr/local/etc/vivabill/data/",
+ "driver_dir":"/usr/local/etc/vivabill/driver/",
+ "pid_dir":"/var/run/",
+ "log_dir":"/var/log/vivabill/",
+ "facter_dir":"/usr/local/etc/vivabill/driver/",
+ "sysconfig_dir":"/usr/home/admin/",
+ "dhcp_dir":"/usr/home/admin/",
+ "tftp_cm_config":"/tftpboot/config/",
+ "tftp_cm_process":"/tftpboot/process/",
+ "tftp_cm_source":"/tftpboot/source/",
+ "ovsp_dir":"/usr/local/etc/vivabill/ovsp/",
+ "comx_dir":"/usr/local/etc/vivabill/comx/"
+}
